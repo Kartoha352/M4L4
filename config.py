@@ -1,0 +1,2 @@
+DATABASE = "anime.db"
+TOKEN = ""
